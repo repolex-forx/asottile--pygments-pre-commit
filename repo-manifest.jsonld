@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/pygments-pre-commit/commit/afe05c3fdc66b61af3b4e56fa5214576436f3f0f",
       "git:hexsha": "afe05c3fdc66b61af3b4e56fa5214576436f3f0f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:31:03.111614+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/pygments-pre-commit/commit/d74da35a1b0fb1165883493dbe0f988e47ef3cdc",
