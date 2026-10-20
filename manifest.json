@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "pygments-pre-commit",
+  "versions": [
+    {
+      "commit": "afe05c3fdc66b61af3b4e56fa5214576436f3f0f",
+      "parsed_at": "2026-10-20T11:28:58.826020+00:00",
+      "filetree": "filetree/afe05c3fdc66b61af3b4e56fa5214576436f3f0f.nq.gz",
+      "blobs": [
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/d3cee70cf203431e1b79a8d2be277ac322ddda19.nq.gz",
+        "blob/f82d0e52615387a397c0d4f6f3b1cdac0898744b.nq.gz",
+        "blob/98773dd6fb07fe7cd2f71b10f94edb2dcf2b9a62.nq.gz",
+        "blob/b6912dcbafa641c5baeb213502d79cb7c572ebcc.nq.gz",
+        "blob/6a581d61107450a11a858edb40a654fcf8a19afb.nq.gz",
+        "blob/cbfe2013e389f283c2cdb1de3ae16b1327679121.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/b7af5ef213084fe100c5bb755659ef68c14dae5b.nq.gz",
+        "blob/6139f1aa3b52444b22ac27c90448c75ca922a272.nq.gz",
+        "blob/71450061789b8092b63eb4668dd5098a5f14397f.nq.gz",
+        "blob/3fdffa121e3b0e62264cdf10bc360c93537670b7.nq.gz",
+        "blob/a2bdb83a92e77fa106a5e0b8dc9dfca6c0b5075d.nq.gz",
+        "blob/a7f686449b996f8742f42e31a48634031331ebdb.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
