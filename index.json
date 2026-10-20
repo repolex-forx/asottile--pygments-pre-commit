@@ -1,0 +1,11 @@
+{
+  "org": "asottile",
+  "repo": "pygments-pre-commit",
+  "versions": [
+    {
+      "commit": "afe05c3fdc66b61af3b4e56fa5214576436f3f0f",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:31:03.112267+00:00"
+    }
+  ]
+}
